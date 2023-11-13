@@ -1,0 +1,203 @@
+*{  margin: 0;
+    text-decoration: none;
+
+}
+.navbar{
+    background-color: #020808; 
+    font-family: Cabinet Grotesk;
+padding-left: 140px; padding-right: 140px; padding-top: 22px; padding-bottom: 22px; 
+flex-shrink: 0;
+}
+.navdiv{
+    display: flex; align-items: center; justify-content: space-between;
+}
+.logo a{
+    color: #FFF;
+font-family: Cabinet Grotesk;
+font-size: 24px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+li{
+    list-style: none; display: inline-block;
+}
+li a{
+    color: #EFEFEF;
+font-family: Cabinet Grotesk;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.48px;
+margin-right: 32px;
+}
+button{
+    display: inline-flex;
+padding: 8px 16px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+border-radius: 10px;
+background: #FFF;
+}
+button a{
+    color: #020808;
+font-family: Cabinet Grotesk;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.48px;
+}
+
+.main{
+     background-color: #020808; 
+    font-family: Cabinet Grotesk;
+    display: flex; 
+
+}
+
+.aboutme{
+    display: flex; margin-top: 0%; 
+}
+.text-box{
+    margin-top: 390px;
+   margin-right: 140px;
+    
+}
+.text-box h2{
+    color: #FFF;
+font-family: Cabinet Grotesk;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.44px;
+padding-left: 24px;
+
+}
+.text-box p{
+    color: #CDE4E4;
+font-family: Cabinet Grotesk;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 24px;
+padding-left:24px; 
+width: 532px;
+}
+
+.aboutme img{
+    float: left;
+
+}
+.imgdot{
+    width: 24px;
+    height: 24px;
+    padding-top: 405px;
+    padding-left: 107px;
+}
+.second{
+    background-color: #020808; 
+    font-family: Cabinet Grotesk;
+    display: flex;  
+    margin-right: 0px; 
+}
+.text-box1{
+    margin-left: 140px;
+    margin-top: 158px;
+}
+.text-box1 h3{
+    color: #FFF;
+font-family: Cabinet Grotesk;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.projects{
+    display: flex;
+    margin-bottom: 200px;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+gap: 20px;
+}
+.Scancode img{
+margin-left: 211px;
+}
+.Digital img{
+ margin-right: 140px; 
+ margin-top: 220px;
+ /* margin-left: 20px; */
+} 
+.Empowering img{
+    display: flex;
+margin-bottom: 200px;
+margin-left: 211px;
+} 
+.connect{
+    background-color: #020808; 
+    display: flex; 
+   
+}
+.rectangle{
+    width: 1440px;
+height: 456px;
+flex-shrink: 0;
+border-radius: 0px 188px 0px 0px;
+background: #96AADE;
+}
+.text-box2{
+    display: flex; 
+}
+.text-box2 h3{
+    color: #020808;
+    font-family: Cabinet Grotesk;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 174px;
+    margin-left: 557px;
+    margin-right: 558px;
+    margin-bottom: 55px;
+}
+
+.icons{
+    display: flex;
+    /* margin-bottom: 122px; */
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+    gap: 12px;
+
+}
+.linkedin img{
+margin-left: 582px;
+/* margin-right: 12px; */
+margin-bottom:122px;
+}
+/* .Instagram img{
+ margin-left: 654px;
+margin-right: 12px;
+margin-bottom:122px;
+margin-top:55px
+} 
+
+/* .mail img{
+ margin-left: 726px;
+ margin-right: 12px;
+margin-bottom:122px;
+margin-top:55px
+ } */
+/* .behance img{
+ margin-left: 798px;
+ margin-bottom:122px;
+ margin-right: 582px;
+ 
+} */
+        
+    
+
